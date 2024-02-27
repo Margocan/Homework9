@@ -9,7 +9,7 @@ final class InfoCell: UITableViewCell {
     
     override func awakeFromNib() {
         super.awakeFromNib()
-        // Initialization code
+        
     }
     
     func configureCell(firstLabel: String?, secondLabel: String?) {
